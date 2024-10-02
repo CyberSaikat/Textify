@@ -1,14 +1,14 @@
 # 🖊️ Textify
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CyberSaikat/testify/main/public/images/banner.png" alt="Leading Image" width="100%">
+  <img src="https://raw.githubusercontent.com/CyberSaikat/Textify/main/public/images/banner.png" alt="Leading Image" width="100%">
 </p>
 
 **Textify** is a powerful React application that transforms your ideas into visually striking text compositions. With an intuitive interface and a rich set of features, Textify empowers you to create, edit, and manipulate text elements on a dynamic canvas. Whether you're designing social media posts, creating memes, or prototyping layouts, Textify is your go-to tool for text-based creativity.
 
-[![GitHub license](https://img.shields.io/github/license/CyberSaikat/textify.svg)](https://github.com/CyberSaikat/textify/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/CyberSaikat/textify.svg)](https://github.com/CyberSaikat/textify/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/CyberSaikat/textify.svg)](https://github.com/CyberSaikat/textify/issues)
+[![GitHub license](https://img.shields.io/github/license/CyberSaikat/Textify.svg)](https://github.com/CyberSaikat/Textify/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/CyberSaikat/Textify.svg)](https://github.com/CyberSaikat/Textify/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/CyberSaikat/Textify.svg)](https://github.com/CyberSaikat/Textify/issues)
 
 ## 🌟 Key Features
 
@@ -32,8 +32,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/textify.git
-   cd textify
+   git clone https://github.com/yourusername/Textify.git
+   cd Textify
    ```
 
 2. **Install dependencies**

@@ -1,7 +1,7 @@
 # 🖊️ Textify
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CyberSaikat/Textify/main/public/images/banner.png" alt="Leading Image" width="100%">
+  <img src="https://raw.githubusercontent.com/CyberSaikat/Textify/master/public/images/banner.png" alt="Leading Image" width="100%">
 </p>
 
 **Textify** is a powerful React application that transforms your ideas into visually striking text compositions. With an intuitive interface and a rich set of features, Textify empowers you to create, edit, and manipulate text elements on a dynamic canvas. Whether you're designing social media posts, creating memes, or prototyping layouts, Textify is your go-to tool for text-based creativity.

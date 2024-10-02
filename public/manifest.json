@@ -1,6 +1,6 @@
 {
   "short_name": "Textify",
-  "name": "Create React App Sample",
+  "name": "A user-friendly text canvas app for creating, editing, and sharing personalized text graphics.",
   "icons": [
     {
       "src": "favicon.ico",

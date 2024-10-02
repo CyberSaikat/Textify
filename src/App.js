@@ -3,7 +3,6 @@ import Draggable from 'react-draggable';
 import html2canvas from 'html2canvas';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-// import 'react-select/dist/react-select.css';
 import { Bold, Italic, Underline, Plus, Trash2, AArrowUp, AArrowDown, Eye, EyeOff, ChevronUp, ChevronDown, ChevronRight, ChevronLeft, Undo, Redo } from 'lucide-react';
 import Select from 'react-select';
 

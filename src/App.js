@@ -43,6 +43,7 @@ const TextCanvas = () => {
   }
 
   useEffect(() => {
+    document.title = 'Textify - Text Canvas';
     const savedCanvas = localStorage.getItem('canvasItems');
     if (savedCanvas) {
       setTextItems(JSON.parse(savedCanvas));

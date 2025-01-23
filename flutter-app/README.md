@@ -22,7 +22,7 @@ Textify is your creative companion for crafting stunning text compositions. Whet
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Textify.git
+git clone https://github.com/sculptorofcode/Textify.git
 
 # Navigate to Flutter app directory
 cd Textify/flutter-app

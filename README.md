@@ -1,14 +1,14 @@
 # 🖊️ Textify
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CyberSaikat/Textify/master/public/images/banner.png" alt="Leading Image" width="100%">
+  <img src="https://raw.githubusercontent.com/sculptorofcode/Textify/master/public/images/banner.png" alt="Leading Image" width="100%">
 </p>
 
 **Textify** is a powerful React application that transforms your ideas into visually striking text compositions. With an intuitive interface and a rich set of features, Textify empowers you to create, edit, and manipulate text elements on a dynamic canvas. Whether you're designing social media posts, creating memes, or prototyping layouts, Textify is your go-to tool for text-based creativity.
 
-[![GitHub license](https://img.shields.io/github/license/CyberSaikat/Textify.svg)](https://github.com/CyberSaikat/Textify/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/CyberSaikat/Textify.svg)](https://github.com/CyberSaikat/Textify/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/CyberSaikat/Textify.svg)](https://github.com/CyberSaikat/Textify/issues)
+[![GitHub license](https://img.shields.io/github/license/sculptorofcode/Textify.svg)](https://github.com/sculptorofcode/Textify/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/sculptorofcode/Textify.svg)](https://github.com/sculptorofcode/Textify/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/sculptorofcode/Textify.svg)](https://github.com/sculptorofcode/Textify/issues)
 
 ## 🌟 Key Features
 
@@ -92,7 +92,7 @@ Have questions, feedback, or just want to say hi? We'd love to hear from you!
 
 - **Creator**: Saikat Roy
 - **Email**: [saikatroydot@gmail.com](mailto:saikatroydot@gmail.com)
-- **GitHub**: [@CyberSaikat](https://github.com/CyberSaikat)
+- **GitHub**: [@sculptorofcode](https://github.com/sculptorofcode)
 
 ---
 
